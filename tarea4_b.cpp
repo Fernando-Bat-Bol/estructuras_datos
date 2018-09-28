@@ -52,5 +52,5 @@ int main(){
     Empty()?cout<<"Esta vacio"<<endl:cout<<"No esta vacio"<<endl;
     cout<<"Tamanio-> "<<Size()<<endl;
     for(int i=0;i<10;i++)
-        cout<<lista[i]<<" ";
+        cout<<lista[i]<<endl;
 }
