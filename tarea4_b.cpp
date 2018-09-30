@@ -1,3 +1,4 @@
+//Implementacion de una cola estatica
 #include <iostream>
 #include <string>
 #define DIMENSION 10
