@@ -1,3 +1,4 @@
+//Implementacion de una cola dinamica
 #include <iostream>
 #include <string>
 using namespace std;
